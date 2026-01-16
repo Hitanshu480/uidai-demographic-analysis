@@ -6,7 +6,3 @@ This repository contains Python scripts used for:
 - Cleaning state and district inconsistencies
 - Analyzing enrollment trends at state, district, and pincode levels
 
-Files:
-1. data_loading.py – Loads and merges raw CSV files
-2. data_cleaning.py – Cleans state and district names
-3. odisha_analysis.py – District, pincode, and monthly trend analysis for Odisha
